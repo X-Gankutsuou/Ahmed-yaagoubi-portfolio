@@ -77,6 +77,6 @@ This repository contains projects related to:
 ### Contact
 
 Feel free to connect with me and explore my projects.
-You can reach me at [LinkedIn](www.linkedin.com/in/ahmed-yaagoubi) 
+You can reach me at [LinkedIn](www.linkedin.com/in/ahmed-yaagoubi/) 
 
 "Bridging Industrial Engineering and Cybersecurity to secure critical infrastructure."
